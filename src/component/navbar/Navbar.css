@@ -1,0 +1,16 @@
+.container {
+  max-width: 1140px;
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.navbar {
+  display: flex;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
+  justify-content: space-between;
+}
